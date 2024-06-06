@@ -1,2 +1,2 @@
 # Cardiac-Patient-Medical-Report-Analysis
-Delving deep into the data, I've uncovered trends, patterns, and valuable information that can enhance patient care and outcomes.
+In this comprehensive healthcare analytics project , i tackled several key ares to improve understanding and efficiency of hospital operations.
