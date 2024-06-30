@@ -48,10 +48,5 @@ This project focuses on analyzing cardiac patient medical reports using Excel to
 - Explore further research opportunities, such as longitudinal studies and predictive modeling.
 - Continuously refine analysis methodologies based on new data and technological advancements.
 
-## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/cardiac-patient-analysis.git
 
 
